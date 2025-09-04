@@ -38,5 +38,5 @@ Hi, I’m Gopa Singh, passionate about Data Analytics, Business Intelligence, an
 
 📷 Dashboard Preview
 -
--
+-https://github.com/GOPAsingh/Big-Store-Annual-Sales-performance-for-2024-and-2025/blob/main/Store%20Annual%20Report%202024%20%26%202025.png
 -https://github.com/GOPAsingh/Big-Store-Annual-Sales-performance-for-2024-and-2025/blob/main/Store%20Report.png
